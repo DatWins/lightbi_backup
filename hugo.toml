@@ -49,13 +49,6 @@ pagerSize = 6
     title = "Lightbi"
     contentDir = "content/en"
 
-  [languages.ml]
-    LanguageCode  = "ml"
-    LanguageName = "Malayalam"
-    weight = 2
-    title = "Malayalam Site"
-    contentDir = "content/ml"
-
 [Params.Author]
   name = "Bino Kochumol Varghese"
   website = "https://www.binovarghese.com/"
